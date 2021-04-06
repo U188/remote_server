@@ -1,0 +1,7 @@
+
+vmess=120.236.197.223:8003,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=120.236.197.223;port=1002,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=台湾原生 Hinet-广移中转-TW01@V2
+vmess=shcu114514.qwqcloud.cyou:11453,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=台湾原生Hinet-CN2中转-TW01@V2
+vmess=shcu114514.qwqcloud.cyou:11451,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=香港 BGP-CN2中转-HK01@V2
+vmess=120.236.197.223:11451,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=香港 BGP-广移中转-HK01@V2
+vmess=shcu114514.qwqcloud.cyou:11452,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=马来西亚原生 CN2中转-MY01@V2
+

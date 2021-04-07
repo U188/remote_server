@@ -1,14 +1,44 @@
-vmess=v109.mxv2ssr.xyz:41109, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=09
-vmess=v110.mxv2ssr.xyz:41110, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=10
-vmess=v111.mxv2ssr.xyz:41111, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=11
-vmess=v112.mxv2ssr.xyz:41112, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=12
-vmess=v113.mxv2ssr.xyz:41113, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=13
-vmess=v114.mxv2ssr.xyz:41114, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=14
-vmess=v115.mxv2ssr.xyz:41115, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=15
-vmess=v116.mxv2ssr.xyz:41116, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=16
-vmess=v117.mxv2ssr.xyz:41117, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=17
-vmess=v118.mxv2ssr.xyz:41118, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=18
-vmess=v119.mxv2ssr.xyz:41119, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=19
-vmess=v120.mxv2ssr.xyz:41120, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=20
-vmess=v131.mxv2ssr.xyz:41131, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=31
-vmess=v132.mxv2ssr.xyz:41132, method=aes-128-gcm, password=fc7bf846-dd99-3354-914d-9ba081fcbab4, fast-open=false, udp-relay=false, tag=32
+vmess=v109.mxv2ssr.xyz:41109,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒈V2RAY [vip1]北京BGP-中转-AWS香港
+vmess=v110.mxv2ssr.xyz:41110,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒉V2RAY [vip1]广移-中转-新加坡
+vmess=v111.mxv2ssr.xyz:41111,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒊V2RAY [vip1]广移-中转-香港 
+vmess=v112.mxv2ssr.xyz:41112,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒋V2RAY [vip1]广移-中转-新加坡
+vmess=v113.mxv2ssr.xyz:41113,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒌V2RAY [vip1]上海cn2-中转-香港
+vmess=v114.mxv2ssr.xyz:41114,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒍V2RAY [vip1]北京BGP-中转-台湾Hinet-原生IP
+vmess=v115.mxv2ssr.xyz:41115,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒎V2RAY [vip1]广移-中转-香港
+vmess=v116.mxv2ssr.xyz:41116,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒏V2RAY [vip1]电信-中转-香港
+vmess=v117.mxv2ssr.xyz:41117,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒐V2RAY [vip1]广移-中转-台湾Hinet-原生IP
+vmess=v118.mxv2ssr.xyz:41118,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒑V2RAY [vip1]北京BGP-中转-香港
+vmess=v119.mxv2ssr.xyz:41119,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒒V2RAY[vip1]北京BGP-中转-新加坡
+vmess=v120.mxv2ssr.xyz:41120,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒓V2RAY [vip1]北京BGP-中转-台湾Hinet-原生IP
+vmess=v121.mxv2ssr.xyz:41121,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒔V2RAY [vip1]北京BGP-中转-台湾Hinet-原生IP
+vmess=v126.mxv2ssr.xyz:41126,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒕V2RAY [vip1]北京BGP-中转-香港
+vmess=v127.mxv2ssr.xyz:41127,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒖V2RAY [vip1]上海cn2-中转-美国
+vmess=v129.mxv2ssr.xyz:41129,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒗V2RAY [vip1]电信-中转-香港
+vmess=v131.mxv2ssr.xyz:41131,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒘V2RAY [vip1]电信-中转-香港
+vmess=v132.mxv2ssr.xyz:41132,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⒙V2RAY [vip1]北京BGP-中转-香港
+vmess=vip2-tw1.mxssr.t:p;por,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=[vip2]国内中转-台湾 -Netflix 01
+vmess=vip2-hk1.mxssr.t:p;por,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=[vip2]香港01 DMIT-NETFLIX|HULU|HBO
+vmess=vip2-hk2.mxssr.t:p;por,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=[vip2]香港02 DMIT-NETFLIX|HULU|HBO
+vmess=vip2-hk3.mxssr.t:p;por,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=[vip2]香港03 DMIT-NETFLIX|HULU|HBO
+vmess=vip2-hk4.mxssr.t:p;por,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=[vip2]香港04 HKBN-NETFLIX|HULU|HBO
+vmess=v237.mxv2ssr.xyz:42237,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=①V2RAY [vip2]广移-中转-台湾Hinet-原生IP
+vmess=v238.mxv2ssr.xyz:42238,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=②V2RAY [vip2]广移-中转-香港
+vmess=v239.mxv2ssr.xyz:42239,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=③V2RAY [vip2]广移-中转-香港
+vmess=v240.mxv2ssr.xyz:42240,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=④V2RAY [vip2]广移-中转-台湾Hinet-原生IP
+vmess=v241.mxv2ssr.xyz:42241,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑤V2RAY [vip2]广移--中转-新加坡
+vmess=v242.mxv2ssr.xyz:42242,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑥V2RAY [vip2]上海联通-中转-香港
+vmess=v243.mxv2ssr.xyz:42243,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑦V2RAY [vip2]上海联通-中转-香港
+vmess=v244.mxv2ssr.xyz:42244,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑧V2RAY [vip2]上海联通-中转-香港
+vmess=v245.mxv2ssr.xyz:42245,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑨V2RAY [vip2]上海CN2-中转-香港
+vmess=v246.mxv2ssr.xyz:42246,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑩V2RAY [vip2]上海CN2-中转-台湾Hinet-原生IP
+vmess=v253.mxv2ssr.xyz:42253,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑪V2RAY [vip2]IPLC专线-游戏|深圳|香港
+vmess=v254.mxv2ssr.xyz:42254,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑫V2RAY [vip2]IPLC专线-游戏|深圳|日本
+vmess=v255.mxv2ssr.xyz:42255,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑬V2RAY [vip2]IPLC专线-游戏|深圳|新加坡
+vmess=v256.mxv2ssr.xyz:42256,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑭V2RAY [vip2]IPLC专线-游戏|深圳|香港
+vmess=v257.mxv2ssr.xyz:42257,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑮V2RAY [vip2]IPLC专线-游戏|深圳|日本
+vmess=v258.mxv2ssr.xyz:42258,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=⑯V2RAY [vip2]IPLC专线-游戏|深圳|韩国
+vmess=v352.mxv2ssr.xyz:port=,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=tudou131420专属-专线节点-8K秒开
+vmess=v350.mxv2ssr.xyz:43350,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=V2ray [vip3]ipcl专线-深圳-台湾Hinet-原生IP-极速8K 03
+vmess=v351.mxv2ssr.xyz:43351,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=V2ray [vip3]ipcl专线-深圳-台湾Hinet-原生IP-极速8K 04
+vmess=v348.mxv2ssr.xyz:43348,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=V2ray [vip3]ipcl专线-深圳-香港-极速8K 01
+vmess=v349.mxv2ssr.xyz:43349,method=aes-128-gcm,password=fc7bf846-dd99-3354-914d-9ba081fcbab4,fast-open=false,udp-relay=false,tag=V2ray [vip3]ipcl专线-深圳-香港-极速8K 02

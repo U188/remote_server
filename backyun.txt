@@ -1,7 +1,15 @@
-
-vmess=120.236.197.223:8003,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=120.236.197.223;port=1002,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=台湾原生 Hinet-广移中转-TW01@V2
-vmess=shcu114514.qwqcloud.cyou:11453,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=台湾原生Hinet-CN2中转-TW01@V2
-vmess=shcu114514.qwqcloud.cyou:11451,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=香港 BGP-CN2中转-HK01@V2
-vmess=120.236.197.223:11451,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=香港 BGP-广移中转-HK01@V2
-vmess=shcu114514.qwqcloud.cyou:11452,method=aes-128-gcm,password=f304b1d2-cbf8-3527-85fc-d6d9775f7567,obfs-host=139.227.35.208,obfs=ws,obfs-uri=/ws,fast-open=false,udp-relay=false,tag=马来西亚原生 CN2中转-MY01@V2
-
+vmess=shcu114514.qwqcloud.cyou:11451, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=shcu114514.qwqcloud.cyou,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=俄罗斯
+vmess=120.236.197.223:8081, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=baidu.com,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=台湾原生 Hinet-广移中转-TW01@V2
+vmess=shcu114514.qwqcloud.cyou:8082, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=baidu.com,obfs=ws，obfs-uri=/ws,fast-open=false,udp-relay=false,tag=台湾原生 Hinet-CN2中转-TW01@V2
+vmess=tw01.nodes.backwaves.net:8080, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=tw01.nodes.backwaves.net,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=台湾原生Hinet-直连-TW01@V2
+vmess=54.255.138.93:8080, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=54.255.138.93,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=新加坡 直连-SG01@V2
+vmess=153.122.75.131:443, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=jp01.nodes.backwaves.net,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=日本原生IJJ 联通优化-JP01@V2
+vmess=38.143.2.143:6443, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=us01.nodes.backwaves.net,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=美国 三线优化-US01@V2
+vmess=13.213.2.243:8080, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=www.studyinkorea.go.kr,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=韩国 AGA-直连-KR01@V2
+vmess=shcu114514.qwqcloud.cyou:8088, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=baidu.com,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=香港 BGP-CN2中转-HK01@V2
+vmess=103.127.240.43:80, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=103.127.240.43,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=香港 BGP-三网优化-HK03@V2
+vmess=120.236.197.223:8089, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=baidu.com,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=香港 BGP-广移中转-HK01@V2
+vmess=223.197.3.106:80, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=223.197.3.106,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=香港 HKT-直连-HK04@V2
+vmess=shcu114514.qwqcloud.cyou:10795, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=baidu.com,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=马来西亚原生 CN2中转-MY01@V2
+vmess=120.236.197.223:10794, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=www.three.com.hk,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=马来西亚原生 广移中转-MY01@V2
+vmess=my01.nodes.backwaves.net:10793, method=aes-128-gcm, password=f304b1d2-cbf8-3527-85fc-d6d9775f7567, obfs-host=www.three.com.hk,obfs=ws, obfs-uri=/ws, fast-open=false, udp-relay=false, tag=马来西亚原生 直连-MY01@V2

@@ -1,0 +1,12 @@
+vmess=hk10-n13.xiaoxiaofeng.xyz:21013, method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=hk-10
+vmess=hk09-n12.xiaoxiaofeng.xyz:20912,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=hk-09
+vmess=hk08-n11.xiaoxiaofeng.xyz:20811,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=hk-08
+vmess=hk07-n10.xiaoxiaofeng.xyz:20710,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=hk-07
+vmess=kr02-n60.xiaoxiaofeng.xyz:20260,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=kr-02
+vmess=us05-n53.xiaoxiaofeng.xyz:20553,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=us-05
+vmess=tw10-n48.xiaoxiaofeng.xyz:21048,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=tw-10
+vmess=tw09-n47.xiaoxiaofeng.xyz:20947,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=tw-09
+vmess=hk16-n19.xiaoxiaofeng.xyz:21619,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=hk-16
+vmess=jp05-n28.xiaoxiaofeng.xyz:20528,method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, fast-open=false, udp-relay=false, tag=jp-05
+vmess=hk20-n23.xiaoxiaofeng.xyz:22023, method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, obfs=wss, obfs-host=hk20-n23.xiaoxiaofeng.xyz, obfs-uri=/hls/cctv5phd.m3u8, tls-verification=true, fast-open=false, udp-relay=false, tag=hk20
+vmess=hk19-n22.xiaoxiaofeng.xyz:21922, method=aes-128-gcm, password=5e01da15-f6bf-355a-8005-e5d2ebfabe28, obfs=wss, obfs-host=hk19-n22.xiaoxiaofeng.xyz, obfs-uri=/hls/cctv5phd.m3u8, tls-verification=true, fast-open=false, udp-relay=false, tag=hk19

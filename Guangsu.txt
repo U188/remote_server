@@ -1,0 +1,25 @@
+vmess=aga.963100.xyz:30101,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.166.58.162,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=aga香港01 1倍 原生NF 电联入口
+vmess=aga.963100.xyz:30103,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.166.58.162,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=aga香港02 1倍 原生NF 电联入口
+vmess=g.963100.xyz:40953,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 203.66.68.225,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp台湾01 1倍 动画疯NF Bli 三网入口
+vmess=g.963100.xyz:40955,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 111.241.180.13,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp台湾02 1倍 动画疯NF Bli 三网入口
+vmess=jp.963100.xyz:40965,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 54.168.234.18,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp日本01 1倍 BGP三网入口
+vmess=jp.963100.xyz:12006,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 13.125.87.99,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp日本02 1倍 原生NF BGP三网入口
+vmess=jp.963100.xyz:12005,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 13.125.87.99,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp日本03 1倍 原生NF BGP三网入口
+vmess=jp.963100.xyz:40966,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 54.168.234.18,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp日本04 1倍 BGP三网入口
+vmess=bgp.xxatf.top:12003,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.162.230.47,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp香港01 1倍 动画疯NF BGP三网入口
+vmess=bgp.xxatf.top:12002,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.162.230.47,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=bgp香港02 1倍 动画疯NF BGP三网入口
+vmess=g1.963100.xyz:40983,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.167.96.64,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=cmi香港01 2倍 原生NF 电移入口
+vmess=g1.963100.xyz:40888,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.167.96.64,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=cmi香港02 1倍 原生NF 电移入口
+vmess=g.963100.xyz:40982,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.166.72.73,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=cmi香港03 1倍 原生NF 电移入口
+vmess=g.963100.xyz:40981,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 18.166.72.73,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=cmi香港04 1倍 原生NF 电移入口
+vmess=iepl.963100.xyz:40960,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 23.101.0.98,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=IEPL深港 1倍 极速
+vmess=e.963100.xyz:40951,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 45.89.228.56,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=俄国 1倍 三网入口
+vmess=g.963100.xyz:10899,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 194.39.205.206,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=德国 原生IP 2倍率 
+vmess=z.963100.xyz:40965,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 140.238.48.112,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=日本c01 1倍 救急节点 电移入口
+vmess=z.963100.xyz:40997,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 13.230.31.111,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=日本d31 10倍 救急节点 电移入口	
+vmess=z.963100.xyz:40998,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 13.230.31.111,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=日本d32 10倍  救急节点 电移入口
+vmess=aga.963100.xyz:30105,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 107.173.149.79,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=美国01 1倍  原生IP 推特专用 电联入口
+vmess=g.963100.xyz:40957,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 204.9.38.216,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=美国02 原生IP 美区NF
+vmess=iplc3.xxatf.top:38801,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 23.101.0.98,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=IPLC 深港 10倍  三网入口
+vmess=g.963100.xyz:40963,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 15.207.117.123,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=印度 10倍 购买游戏专用
+vmess=g.963100.xyz:12200,method=aes-128-gcm, password= 8d001141-2539-3ea3-98b9-9d83f76c21ee,obfs-host= 185.219.132.99,obfs=ws, obfs-uri=/v2ray,fast-open=false, udp-relay=false, tag=土耳其  8倍 注册账户专用

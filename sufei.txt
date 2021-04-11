@@ -1,0 +1,19 @@
+vmess=28.sufeiyun.cyou:17797,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】印度孟买1-香港中转-电信优化
+vmess=30.sufeiyun.cyou:17899,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】印度孟买2-香港中转-三网优化
+vmess=8.sufeiyun.cyou:18877,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】台湾2|广州移动 | 内网线路 | 500m-原生ip|Netflix
+vmess=21.sufeiyun.cyou:17790,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】台湾5-香港中转-原生ip-Netflix-电信优化
+vmess=22.sufeiyun.cyou:17891,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】台湾6-移动中转-原生IP-Netflix
+vmess=31.sufeiyun.cyou:17900,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】德国法兰克福1-香港中转-电信优化
+vmess=12.sufeiyun.cyou:17781,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】悉尼2-香港中转-电信优化
+vmess=16.sufeiyun.cyou:18785,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】新加坡2|移动中转| 三网优化 | 
+vmess=35.sufeiyun.cyou:18884,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】新加坡3|香港中转| 电信优化 | 
+vmess=25.sufeiyun.cyou:17794,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】日本1-香港中转-电信优化
+vmess=27.sufeiyun.cyou:18896,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】日本2-广州移动中转-三网优化
+vmess=17.sufeiyun.cyou:17786,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】法国巴黎1-香港中转-电信优化
+vmess=36.sufeiyun.cyou:18885,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】美国1| 广州移动1000中转| 三网优化 | 
+vmess=24.sufeiyun.cyou:17793,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】美国东22| 香港中转| 深港专线 | 内网线路 | 500m
+vmess=20.sufeiyun.cyou:17789,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】韩国4|香港中转| 电信优化 | 
+vmess=14.sufeiyun.cyou:18883,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】韩国首尔2-移动中转-三网优化
+vmess=45.sufeiyun.cyou:17813,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】香港1| 广州移动 | 内网线路 | 500m
+vmess=47.sufeiyun.cyou:17815,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】香港3| 广州移动| 三网优化 
+vmess=39.sufeiyun.cyou:18809,method=aes-128-gcm, password= 642be1e1-41fd-31bc-a726-5cc4996a86a2,fast-open=false, udp-relay=false, tag=【vip1】香港7-广州移动中转-三网优化 

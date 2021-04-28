@@ -1,0 +1,13 @@
+vmess=54.180.32.181:28519,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 54.180.32.181,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=AWS韩国直连
+vmess=18.167.120.97:29855,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 18.167.120.97,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=AWS香港直连
+vmess=54.249.20.155:11685,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 54.249.20.155,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=AZ日本直连
+vmess=13.212.195.168:29455,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 13.212.195.168,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=新加坡本部
+vmess=124.156.143.71:1666,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 124.156.143.71,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=腾讯云香港
+vmess=tjcudfhkj.coalcloud.xyz:29555,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 54.249.20.155,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=内网专线[测试]日本
+vmess=tjcudfhkj.coalcloud.xyz:29511,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 13.212.195.168,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=新加坡/YOUTUBE4K秒开/极低延迟/
+vmess=tjcudfhkj.coalcloud.xyz:29505,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 54.249.20.155,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本A/YOUTUBE1080P秒开/极低延迟/
+vmess=183.236.97.99:29505,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 54.249.20.155,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本B
+vmess=tjcudfhkj.coalcloud.xyz:29515,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 13.212.195.168,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=美国A/原生IP/解锁流媒体
+vmess=tjcudfhkj.coalcloud.xyz:29507,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 54.180.32.181,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=韩国/IEPL专线/YOUTUBE4K秒开/极低延迟/
+vmess=183.236.97.99:10274,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 18.167.120.97,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=香港-广州移动
+vmess=tjcudfhkj.coalcloud.xyz:29510,method=aes-128-gcm, password= f026735a-aa00-37cd-b102-3421bda8a130,obfs-host= 18.167.120.97,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=香港A/IEPL专线/YOUTUBE4K秒开/极低延迟/

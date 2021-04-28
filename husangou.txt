@@ -1,0 +1,26 @@
+vmess=cu.husangou.top:19911,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 45.89.229.133,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=俄罗斯1
+vmess=cm.husangou.top:19911,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 45.89.229.133,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=俄罗斯2
+vmess=cu.husangou.top:19912,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 192.46.212.218,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=印度1
+vmess=cm.husangou.top:19912,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 192.46.212.218,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=印度2
+vmess=cu.husangou.top:19904,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= tw.gkd.world,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=台湾1 [Netflix]
+vmess=cm.husangou.top:19904,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= tw.gkd.world,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=台湾2 [Netflix]
+vmess=cu.husangou.top:19902,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 13.229.92.64,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡1
+vmess=cm.husangou.top:19902,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 13.229.92.64,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡2
+vmess=cu.husangou.top:19909,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 13.250.126.202,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡3 [Netflix]
+vmess=cm.husangou.top:19909,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 13.250.126.202,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡4 [Netflix]
+vmess=cu.husangou.top:19900,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 52.194.191.32,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本1
+vmess=cm.husangou.top:19900,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 52.194.191.32,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本2
+vmess=cu.husangou.top:19907,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 54.199.236.243,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本3 [Netflix]
+vmess=cm.husangou.top:19907,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 54.199.236.243,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本4 [Netflix]
+vmess=cu.husangou.top:19916,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 45.33.106.26,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国1 [Netflix]
+vmess=cm.husangou.top:19916,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 45.33.106.26,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国2 [Netflix]
+vmess=cu.husangou.top:19901,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 3.35.231.11,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国1
+vmess=cm.husangou.top:19901,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 3.35.231.11,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国2
+vmess=cu.husangou.top:19908,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 3.34.183.72,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国3 [Netflix]
+vmess=cm.husangou.top:19908,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 3.34.183.72,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国4 [Netflix]
+vmess=cu.husangou.top:19915,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 210.0.158.197,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港1 [Netflix]
+vmess=cm.husangou.top:19915,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 210.0.158.197,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港2 [Netflix]
+vmess=cu.husangou.top:19913,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 219.76.150.106,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港3 [Netflix]
+vmess=cm.husangou.top:19913,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 219.76.150.106,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港4 [Netflix]
+vmess=cu.husangou.top:19914,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 18.162.210.243,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港5
+vmess=cm.husangou.top:19914,method=aes-128-gcm, password= f57e025b-c0f5-3560-8313-a1ab681e1cb7,obfs-host= 18.162.210.243,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港6

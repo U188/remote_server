@@ -1,0 +1,21 @@
+vmess=szcm.xxatf.top:30001,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=61.238.21.187,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A 香港HKBN—SZCM[流媒体]
+vmess=awsbj.xxatf.top:21013,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=45.79.113.193,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=AA 记得一定要时常更新订阅，建议一天一次
+vmess=gzcm.xxatf.top:30004,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=1.163.98.40,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A台湾1[流媒体]—CM
+vmess=gzcm.xxatf.top:30005,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=103.150.10.208,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A新加坡—CM[流媒体]
+vmess=cscu.xxatf.top:10086,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=54.178.49.107,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A日本aws1—CU
+vmess=cscu.xxatf.top:10096,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=13.230.228.159,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A日本aws2—CU
+vmess=cscu.xxatf.top:10098,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=3.112.230.42,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A日本aws3—CU
+vmess=cscu.xxatf.top:10022,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=153.122.175.240,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A日本GMO—CU[流媒体]
+vmess=cscu.xxatf.top:10081,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=139.162.126.243,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A日本linode1—CU
+vmess=gzcm.xxatf.top:30006,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=54.180.128.1,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A韩国aws1—CM
+vmess=gzcm.xxatf.top:30007,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=3.35.10.95,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A韩国aws2—CM
+vmess=cscu.xxatf.top:10089,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=15.165.236.20,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A韩国aws3—CU
+vmess=cscu.xxatf.top:10093,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=13.125.238.163,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A韩国aws4—CU
+vmess=cscu.xxatf.top:10091,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=13.125.221.114,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A韩国aws5—CU
+vmess=gzcm.xxatf.top:30000,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=18.167.172.17,obfs=ws, obfs-uri=/lala, fast-open=false, udp-relay=false, tag=A香港aws1—CM
+vmess=gzcm.xxatf.top:30001,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=18.163.50.45,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A香港aws2—GZCM
+vmess=gzcm.xxatf.top:30002,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=18.162.125.185,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A香港aws3—CM
+vmess=gzcm.xxatf.top:30003,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=18.163.16.62,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A香港aws4—CM
+vmess=szcm.xxatf.top:30000,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=18.162.44.117,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A香港aws5—SZCM
+vmess=szcm.xxatf.top:30002,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=99.83.253.238,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=A香港BGP—SZCM
+vmess=szcm.xxatf.top:30003,method=aes-128-gcm, password= ea81ec7e-ab29-308b-9b45-255b6bcfcf46,obfs-host=34.210.54.92,obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, tag=美国1—SZCM[流媒体]

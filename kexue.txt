@@ -1,0 +1,8 @@
+vmess=52.194.182.64:10550,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本 白嫖-亚马逊云3-v2ray
+vmess=134.172.212.106:10550,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=美国 白嫖-v2ray
+vmess=18.182.66.185:80,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本 亚马逊云4-v2ray cdn
+vmess=160.251.101.214:80,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本 原生节点1-v2ray
+vmess=40.74.112.238:8080,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本 微软1-v2ray
+vmess=196.10.68.127:10550,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=日本 软银1-v2ray
+vmess=173.82.155.208:8080,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=美国 1-v2ray
+vmess=173.82.208.132:8080,method=aes-128-gcm, password= 66ac768e-3bad-3d90-b16c-48e8dc675478,obfs=ws, obfs-uri=/v2ray, fast-open=false, udp-relay=false, tag=美国 2-v2ray

@@ -1,0 +1,35 @@
+vmess=gz.wxret.com:30060,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.254.50.58,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡 v1-2
+vmess=gz.wxret.com:30061,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.254.50.58,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡 v1-3
+vmess=gz.wxret.com:30062,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.254.50.58,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡 v1-4
+vmess=zz.wxret.com:30028,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.238.255.254,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v2-1
+vmess=zz.wxret.com:30022,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.238.255.254,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v2-2
+vmess=zz.wxret.com:30025,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=52.192.123.104,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v2-5
+vmess=gz.wxret.com:30051,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=3.101.141.0,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国 v2-1
+vmess=zz.wxret.com:30053,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.151.54.47,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国 v2-2
+vmess=gz.wxret.com:30007,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=13.75.49.238,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 01测试
+vmess=gz.wxret.com:30008,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=13.75.49.238,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 02 测试
+vmess=gz.wxret.com:30045,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.255.149.126,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=pornhub专用中继线路01
+vmess=gz.wxret.com:30043,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.255.149.126,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=pornhub专用中继线路02
+vmess=zz.wxret.com:30019,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=195.133.11.77,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=俄罗斯 V3-1
+vmess=gz.wxret.com:30018,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=36.229.119.224,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=台湾 流媒体v3-2
+vmess=zz.wxret.com:30020,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=91.200.102.22,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=德国 流媒体v3-1
+vmess=zz.wxret.com:30021,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=91.200.102.22,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=德国 流媒体v3-2
+vmess=gz.wxret.com:30010,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.254.50.58,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡 v3-1 test
+vmess=gz.wxret.com:30049,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=194.233.71.67,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=新加坡 流媒体2
+vmess=zz.wxret.com:30000,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=139.162.110.66,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 A1 ①倍率
+vmess=zz.wxret.com:30001,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=139.162.110.66,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 A2 ①倍率
+vmess=zz.wxret.com:30011,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=52.194.249.10,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v3-3
+vmess=zz.wxret.com:30012,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=52.194.249.10,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v3-4
+vmess=zz.wxret.com:30014,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=52.192.123.104,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v3-6
+vmess=zz.wxret.com:30018,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.238.255.254,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=日本 v3-7 test
+vmess=zz.wxret.com:30002,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=3.101.141.0,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国 v3-1 test
+vmess=zz.wxret.com:30029,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=45.42.200.9,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国 流媒体v3-1
+vmess=zz.wxret.com:30030,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=45.42.200.9,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=美国 流媒体v3-2
+vmess=zz.wxret.com:30050,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.180.100.197,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国 v3-1
+vmess=zz.wxret.com:30051,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.180.100.197,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国 v3-2
+vmess=zz.wxret.com:30052,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=54.180.100.197,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=韩国 v3-3
+vmess=gz.wxret.com:30047,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=5.181.4.29,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 v3-10
+vmess=gz.wxret.com:30046,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=5.181.4.29,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 v3-10 test
+vmess=gz.wxret.com:30039,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=5.181.4.29,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 v3-7
+vmess=gz.wxret.com:30040,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=5.181.4.29,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 v3-8
+vmess=gz.wxret.com:30041,method=aes-128-gcm, password= df19718b-637b-3118-92b0-f5e000df8e2b,obfs-host=5.181.4.29,obfs=ws, obfs-uri=/videos, fast-open=false, udp-relay=false, tag=香港 v3-9

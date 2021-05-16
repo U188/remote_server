@@ -1,64 +1,69 @@
-vmess=apn-e.connect-node.xyz:11508,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=3.112.242.145,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | 公益 | 广州出口
-vmess=apn-e.connect-node.xyz:11509,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=173.82.232.221,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | 公益 | 广州出口
-vmess=apn-e.connect-node.xyz:11507,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=103.150.221.144,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=菲律宾 马尼拉 | 公益 | 广州出口
-vmess=apn-b.connect-node.xyz:1302,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=193.203.202.60,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=乌克兰 基辅 | V1 | 佛山出口 | 覆盖计划
-vmess=apn-a.connect-node.xyz:1013,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=45.130.146.55,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=俄罗斯 新西伯利亚 | V1 | 湘东出口 | 覆盖计划
-vmess=apn-a.connect-node.xyz:1005,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=15.222.238.7,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=加拿大 蒙特利尔 | V1 | 湘东出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1310,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=13.232.217.192,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=印度 孟买 | V1 | 佛山出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1324,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=103.136.17.55,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=印度尼西亚 | V1 | 佛山出口 | 原生印尼媒
-vmess=apn-b.connect-node.xyz:1306,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=122.121.36.239,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=台湾 | V1 | 佛山出口 | 原生台媒
-vmess=apn-a.connect-node.xyz:1008,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=122.121.36.239,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=台湾 | V1 | 湘东出口 | 原生台媒
-vmess=apn-b.connect-node.xyz:1312,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=185.219.133.169,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=土耳其 伊斯坦布尔 | V1 | 佛山出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1320,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=18.185.66.172,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=德国 法兰克福 | V1 | 佛山出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1300,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=149.28.133.44,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=新加坡 | V1 | 佛山出口 | NF
-vmess=apn-a.connect-node.xyz:1002,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=149.28.133.44,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=新加坡 | V1 | 湘东出口 | NF
-vmess=apn-b.connect-node.xyz:1304,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=140.227.176.145,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V1 | 佛山出口 | 原生日媒
-vmess=apn-e.connect-node.xyz:11502,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=108.61.181.216,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V1 | 广州出口 | 日媒 | 下载
-vmess=apn-a.connect-node.xyz:1000,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=140.227.176.145,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V1 | 湘东出口 | 原生日媒
-vmess=apn-a.connect-node.xyz:1001,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=108.61.181.216,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V1 | 湘东出口 | 日媒
-vmess=apn-b.connect-node.xyz:1316,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=35.180.133.133,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=法国 巴黎 | V1 | 佛山出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1322,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=3.104.1.94,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=澳大利亚 悉尼 | V1 | 佛山出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1318,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=154.17.13.77,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V1 | 佛山出口 | 原生美媒
-vmess=apn-a.connect-node.xyz:1006,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=154.17.13.77,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V1 | 湘东出口 | 原生美媒
-vmess=apn-a.connect-node.xyz:1007,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=173.82.232.221,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V1 | 湘日 | 美媒
-vmess=apn-a.connect-node.xyz:1012,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=185.127.19.249,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=英国 伦敦 | V1 | 湘东出口 | 原生英媒
-vmess=apn-a.connect-node.xyz:1003,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=136.244.98.107,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=荷兰 阿姆斯特丹 | V1 | 湘东出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1314,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=103.150.221.144,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=菲律宾 马尼拉 | V1 | 佛山出口 | 原生菲媒
-vmess=apn-a.connect-node.xyz:1014,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=168.181.187.70,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=阿根廷 | V1 | 湘东出口 | 特价网购
-vmess=apn-a.connect-node.xyz:1011,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=158.247.193.31,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=韩国 首尔 | V1 | 湘东出口 | 韩媒
-vmess=apn-b.connect-node.xyz:1326,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=218.189.130.209,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V1 | 佛山出口 | 原生港媒
-vmess=apn-b.connect-node.xyz:1308,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=13.94.36.190,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V1 | 佛山出口 | 微软骨干
-vmess=apn-a.connect-node.xyz:1004,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=218.189.130.209,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V1 | 湘东出口 | 原生港媒
-vmess=apn-a.connect-node.xyz:1009,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=13.94.36.190,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V1 | 湘东出口 | 微软骨干
-vmess=apn-d.connect-node.xyz:1303,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=193.203.202.60,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=乌克兰 基辅 | V2 | 广州出口 | 覆盖计划
-vmess=apn-c.connect-node.xyz:1616,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=45.130.146.55,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=俄罗斯 新西伯利亚 | V2 | 湘北出口 | 覆盖计划
-vmess=apn-c.connect-node.xyz:1605,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=15.222.238.7,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=加拿大 蒙特利尔 | V2 | 湘北出口 | 覆盖计划
-vmess=apn-d.connect-node.xyz:1311,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=13.232.217.192,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=印度 孟买 | V2 | 广州出口 | 覆盖计划
-vmess=apn-b.connect-node.xyz:1325,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=103.136.17.55,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=印度尼西亚 | V2 | 广州出口 | 原生印尼媒
-vmess=apn-d.connect-node.xyz:1307,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=122.121.36.239,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=台湾 | V2 | 广州出口 | 原生台媒
-vmess=apn-c.connect-node.xyz:1615,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=122.121.36.239,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=台湾 | V2 | 湘北出口 | 原生台媒
-vmess=apn-d.connect-node.xyz:1313,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=185.219.133.169,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=土耳其 伊斯坦布尔 | V2 | 广州出口 | 覆盖计划
-vmess=apn-d.connect-node.xyz:1321,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=18.185.66.172,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=德国 法兰克福 | V2 | 广州出口 | 覆盖计划
-vmess=apn-d.connect-node.xyz:1301,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=139.180.152.153,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=新加坡 | V2 | 广州出口 | NF
-vmess=apn-c.connect-node.xyz:1602,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=139.180.152.153,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=新加坡 | V2 | 湘北出口 | NF
-vmess=apn-d.connect-node.xyz:1305,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=164.70.90.42,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V2 | 广州出口 | 原生日媒
-vmess=apn-e.connect-node.xyz:11503,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=202.182.97.57,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V2 | 广州出口 | 日媒 | 下载
-vmess=apn-c.connect-node.xyz:1600,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=164.70.90.42,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V2 | 湘北出口 | 原生日媒
-vmess=apn-c.connect-node.xyz:1601,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=202.182.97.57,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=日本 东京 | V2 | 湘北出口 | 日媒
-vmess=apn-d.connect-node.xyz:1317,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=35.180.133.133,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=法国 巴黎 | V2 | 广州出口 | 覆盖计划
-vmess=apn-d.connect-node.xyz:1323,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=3.104.1.94,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=澳大利亚 悉尼 | V2 | 广州出口 | 覆盖计划
-vmess=apn-d.connect-node.xyz:1319,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=154.17.13.77,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V2 | 广州出口 | 原生美媒
-vmess=apn-e.connect-node.xyz:11505,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=173.82.232.221,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V2 | 广港 | 下载
-vmess=apn-a.connect-node.xyz:1612,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=154.17.13.77,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V2 | 湘东出口 | 原生美媒
-vmess=apn-c.connect-node.xyz:1611,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=173.82.232.221,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=美国 洛杉矶 | V2 | 湘日 | 美媒
-vmess=apn-c.connect-node.xyz:1614,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=185.127.19.249,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=英国 伦敦 | V2 | 湘北出口 | 原生英媒
-vmess=apn-c.connect-node.xyz:1603,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=136.244.98.107,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=荷兰 阿姆斯特丹 | V2 | 湘北出口 | 覆盖计划
-vmess=apn-e.connect-node.xyz:11506,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=103.150.221.144,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=菲律宾 马尼拉 | V2 | 广州出口 | 下载
-vmess=apn-d.connect-node.xyz:1315,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=103.150.221.144,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=菲律宾 马尼拉 | V2 | 广州出口 | 原生菲媒
-vmess=apn-a.connect-node.xyz:1610,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=168.181.187.70,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=阿根廷 | V2 | 湘北出口 | 特价网购
-vmess=apn-e.connect-node.xyz:11504,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=158.247.193.31,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=韩国 首尔 | V2 | 广州出口 | 下载
-vmess=apn-c.connect-node.xyz:1609,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=158.247.193.31,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=韩国 首尔 | V2 | 湘北出口 | 韩媒
-vmess=apn-d.connect-node.xyz:1327,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=218.189.130.209,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V2 | 广州出口 | 原生港媒
-vmess=apn-d.connect-node.xyz:1309,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=13.75.118.123,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V2 | 广州出口 | 微软骨干
-vmess=apn-c.connect-node.xyz:1604,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=218.189.130.209,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V2 | 湘北出口 | 原生港媒
-vmess=apn-c.connect-node.xyz:1613,method=aes-128-gcm, password= c71f12ea-85c2-3ae4-bc8f-6f0e1e4987a4,obfs-host=13.75.118.123,obfs=ws, obfs-uri=/web, fast-open=false, udp-relay=false, tag=香港 | V2 | 湘北出口 | 微软骨干
+vmess=212.80.206.204:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=以色列01|株洲联通|原生 x1
+vmess=91.230.211.202:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=俄罗斯01|株洲联通|原生 x0.7
+vmess=45.130.147.179:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=俄罗斯02|广州移动 x0.7
+vmess=35.183.113.39:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=加拿大01|广州移动 x0.9
+vmess=13.232.216.182:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=印度01|广州移动|特殊 x0.8
+vmess=140.116.180.17:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=台湾01|上海CN2|原生 x1.1
+vmess=185.219.132.118:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=土耳其01|广州移动|特殊 x0.9
+vmess=20.197.225.201:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=巴西01|上海CN2|特殊 x1
+vmess=3.127.222.85:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=德国01|广州移动 x0.9
+vmess=139.59.125.95:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡01|广州移动|新区流媒体 x0.9
+vmess=18.140.130.9:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡02|成都移动|新区流媒体 x0.9
+vmess=139.59.233.150:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡03|广州移动|新区流媒体 x0.9
+vmess=128.199.178.25:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡04|广州移动|港区流媒体 x0.9
+vmess=18.140.130.9:10004,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡05|广州移动|港区流媒体 x0.9
+vmess=18.139.255.41:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡06|广州移动新区流媒体 x0.9
+vmess=54.169.52.62:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡07|广州移动|港区流媒体 x0.9
+vmess=175.41.158.27:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡08|株洲联通|新区流媒体 x0.9
+vmess=139.59.125.112:20002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=新加坡09|成都移动|新区流媒体 x0.9
+vmess=23.102.76.135:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本01|株洲联通|日区流媒体 x0.9
+vmess=20.63.187.189:20001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本02|株洲联通|日区流媒体 x0.9
+vmess=18.181.228.58:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本03|广州移动|日区流媒体 x0.8
+vmess=18.181.228.58:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本04|株洲联通|日区流媒体 x0.8
+vmess=13.231.154.15:10003,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本05|广州移动|日区流媒体 x0.8
+vmess=18.181.188.248:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本06|广州移动|日区流媒体 x0.9
+vmess=3.113.30.30:10004,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本07|广州移动|日区流媒体 x0.9
+vmess=54.249.196.224:10004,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本08|广州移动|日区流媒体 x0.8
+vmess=18.181.188.248:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本09|株洲联通|日区流媒体 x0.9
+vmess=13.114.104.140:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=日本10|株洲联通|日区流媒体 x0.9
+vmess=54.206.124.28:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=澳大利亚01|广州移动 x0.9
+vmess=45.79.239.229:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=澳大利亚02|广州移动 x0.9
+vmess=154.208.9.202:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国01|广州移动|美区流媒体 x0.9
+vmess=154.208.9.202:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国02|成都移动|美区流媒体 x0.9
+vmess=154.208.9.142:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国04|广州移动|美区流媒体 x0.9
+vmess=161.8.26.185:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国05|广州移动|美区流媒体 x0.9
+vmess=154.208.9.212:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国06|广州移动|美区流媒体 x0.9
+vmess=154.208.9.212:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国07|成都移动|美区流媒体 x0.9
+vmess=154.208.9.142:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国08|成都移动|美区流媒体 x0.9
+vmess=161.8.27.146:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国09|广州移动|美区流媒体 x0.9
+vmess=161.8.24.165:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国10|成都移动|美区流媒体 x0.9
+vmess=5.252.167.63:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国11|株洲联通|优化|美区流媒体 x1
+vmess=5.252.167.63:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=美国12|成都移动|优化|美区流媒体 x1
+vmess=3.8.22.105:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=英国01|广州移动 x0.9
+vmess=185.213.174.127:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=荷兰01|广州移动|原生 x0.9
+vmess=103.38.215.98:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=菲律宾01|广州移动|原生 x0.9
+vmess=43.243.127.182:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=菲律宾02|成都移动|原生 x0.9
+vmess=54.180.123.8:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=韩国01|株洲联通 x0.8
+vmess=54.180.123.8:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=韩国02|广州移动 x0.9
+vmess=13.125.207.187:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=韩国03|株洲联通 x0.7
+vmess=13.125.207.187:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=韩国04|广州移动 x0.9
+vmess=18.163.77.111:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港01|广州移动|港区流媒体 x0.9
+vmess=40.83.90.70:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港02|株洲联通|港区流媒体 x0.9
+vmess=134.122.189.29:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港03|BGPNET|广州移动|港区流媒体 x0.9
+vmess=13.75.113.203:10012,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港04|江苏BGP|港区流媒体 x0.9
+vmess=18.163.183.71:20003,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港05|广州移动|港区流媒体 x0.9
+vmess=hgchgc1.yyyywe.top:10600,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港06|广州移动|原生 x0.9
+vmess=134.122.189.37:30001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港07|BGPNET|江苏BGP|港区流媒体 x0.9
+vmess=134.122.189.3:10004,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港08|BGPNET|广州移动|港区流媒体 x0.9
+vmess=134.122.189.37:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港09|BGPNET|成都移动|港区流媒体 x0.9
+vmess=99.83.207.171:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港10|边缘网络|下载节点|电信联通专用 x0.1
+vmess=23.97.70.33:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港11|江苏BGP|港区流媒体 x0.9
+vmess=75.2.59.147:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港12|边缘网络|下载节点|电信联通专用 x0.1
+vmess=23.97.70.33:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港13|广州移动|港区流媒体 x0.9
+vmess=40.83.90.70:20002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港14|江苏BGP|港区流媒体 x0.9
+vmess=13.75.115.249:20001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港15|江苏BGP|港区流媒体 x0.9
+vmess=134.122.189.29:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港16|BGPNET|成都移动|港区流媒体 x0.9
+vmess=40.83.94.74:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港17|广州移动|港区流媒体 x0.9
+vmess=134.122.189.10:10001,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港18|BGPNET|广州移动|港区流媒体 x0.9
+vmess=40.83.94.74:10002,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=香港19|成都移动|香港流媒体 x0.9
+vmess=mlml1.yyyywe.top:10400,method=aes-128-gcm, password= 05203372-da45-3208-ac26-98fe27e7f004, fast-open=false, udp-relay=false, tag=马来西亚01|广州移动|原生 x0.9

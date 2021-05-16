@@ -1,0 +1,15 @@
+vmess=gzcm1.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=13.228.183.138,obfs=ws, obfs-uri=/j20-sp2, fast-open=false, udp-relay=false, tag=[LV1·解锁] 狮城02 | 中转
+vmess=gzcm1.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=139.162.63.227,obfs=ws, obfs-uri=/j20-sp3, fast-open=false, udp-relay=false, tag=[LV1·解锁] 狮城03 | 中转
+vmess=gzcm1.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-sp4, fast-open=false, udp-relay=false, tag=[LV1·解锁] 狮城04 | 中转
+vmess=gzcm1.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-sp5, fast-open=false, udp-relay=false, tag=[LV1·解锁] 狮城05 | 中转
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=38.94.109.21,obfs=ws, obfs-uri=/j20-usa3-242, fast-open=false, udp-relay=false, tag=[LV2·原生] 美国03 | 中转
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=38.94.109.27,obfs=ws, obfs-uri=/j20-usa4-243, fast-open=false, udp-relay=false, tag=[LV2·原生] 美国04 | 中转
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=203.184.132.246,obfs=ws, obfs-uri=/j20-hgc1, fast-open=false, udp-relay=false, tag=[LV2·原生] 香港B1 | 中转
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=203.184.132.247,obfs=ws, obfs-uri=/j20-hgc2, fast-open=false, udp-relay=false, tag=[LV2·原生] 香港B2 | 中转
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=203.184.132.248,obfs=ws, obfs-uri=/j20-hgc3, fast-open=false, udp-relay=false, tag=[LV2·原生] 香港B3 | 中转
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=203.184.132.249,obfs=ws, obfs-uri=/j20-hgc4, fast-open=false, udp-relay=false, tag=[LV2·原生] 香港B4 | 中转
+vmess= j20cuuu1.v22222.xyz:43961,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-jp1, fast-open=false, udp-relay=false, tag=[LV2·解锁] 日本01 | 中转
+vmess=j20cuuu1.v22222.xyz:43961,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-jp2, fast-open=false, udp-relay=false, tag=[LV2·解锁] 日本02 | 中转
+vmess=j20cuuu1.v22222.xyz:43961,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-jp3, fast-open=false, udp-relay=false, tag=[LV2·解锁] 日本03 | 中转
+vmess=j20cuuu1.v22222.xyz:43961,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-jp4, fast-open=false, udp-relay=false, tag=[LV2·解锁] 日本04 | 中转
+vmess=j20cuuu1.v22222.xyz:43961,method=aes-128-gcm, password= 3e3e1b2d-5d65-33a0-be4b-b8a491d8865b,obfs-host=1.1.1.1,obfs=ws, obfs-uri=/j20-jp5, fast-open=false, udp-relay=false, tag=[LV2·解锁] 日本05 | 中转

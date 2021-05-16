@@ -1,0 +1,26 @@
+vmess=52.ssrj.xyz:61152,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]新加坡⑭
+vmess=64.ssrj.xyz:61164,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]新加坡⑮
+vmess=48.ssrj.xyz:61148,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]日本 ⑰
+vmess=51.ssrj.xyz:61151,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]法国 ⑱
+vmess=63.ssrj.xyz:61163,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]美国⑯
+vmess=66.ssrj.xyz:61166,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港  ⑦
+vmess=55.ssrj.xyz:61155,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港  ⑨
+vmess=56.ssrj.xyz:61156,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港  ⑩
+vmess=57.ssrj.xyz:61157,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港  ⑪
+vmess=54.ssrj.xyz:61154,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港  ⑫
+vmess=44.ssrj.xyz:61144,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ①
+vmess=45.ssrj.xyz:61145,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ②
+vmess=49.ssrj.xyz:61149,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ③
+vmess=53.ssrj.xyz:61153,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ⑤
+vmess=65.ssrj.xyz:61165,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ⑥
+vmess=67.ssrj.xyz:61167,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ⑧
+vmess=58.ssrj.xyz:61158,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip1][V2ray]香港 ⑬
+vmess=39.ssrj.xyz:61139,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]上海CN2中转-美國⑥
+vmess=40.ssrj.xyz:61140,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]上海CN2中转-美國⑦
+vmess=37.ssrj.xyz:61137,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]北京bgp中转-美國⑤
+vmess=32.ssrj.xyz:61132,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]北京bgp中转-香港 ①
+vmess=33.ssrj.xyz:61133,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]北京bgp中转-香港②
+vmess=34.ssrj.xyz:61134,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]北京bgp中转-香港③
+vmess=35.ssrj.xyz:61135,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]北京bgp中转-香港④
+vmess=41.ssrj.xyz:61141,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]廣移中转-美國⑧
+vmess=42.ssrj.xyz:61142,method=aes-128-gcm, password= ff4d9b23-23de-374b-8900-aa03ff957e12, fast-open=false, udp-relay=false, tag=[vip2][V2ray]廣移中转-美國⑨

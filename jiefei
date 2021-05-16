@@ -1,0 +1,68 @@
+vmess=hk18.javayun.xyz:21167,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-Vip1丨香港18丨ws10丨BGP丨全网通丨
+vmess=us09.javayun.xyz:21122,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨加拿大09丨
+vmess=us07.javayun.xyz:21120,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨德国07丨 全网通丨
+vmess=sg01.javayun.xyz:21104,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡01丨全网通
+vmess=sg02.javayun.xyz:21105,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡02丨全网通
+vmess=sg03.javayun.xyz:21106,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡03丨全网通
+vmess=sg04.javayun.xyz:21107,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡04丨全网通
+vmess=sg05.javayun.xyz:21108,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡05丨全网通
+vmess=sg06.javayun.xyz:21109,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡06丨全网通
+vmess=sg07.javayun.xyz:21110,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡07丨全网通
+vmess=sg08.javayun.xyz:21111,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡08丨 联通丨移动
+vmess=sg09.javayun.xyz:21112,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡09丨 联通丨移动
+vmess=sg10.javayun.xyz:21113,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨新加坡10丨 联通丨移动
+vmess=jp01.javayun.xyz:21124,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本01丨全网通
+vmess=jp02.javayun.xyz:21125,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本02丨联通丨移动
+vmess=jp03.javayun.xyz:21126,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本03丨联通丨移动
+vmess=jp04.javayun.xyz:21127,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本04丨全网通
+vmess=jp06.javayun.xyz:21153,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本06丨广移A丨 全网通
+vmess=jp07.javayun.xyz:21154,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本07丨广移A丨 全网通
+vmess=jp08.javayun.xyz:21155,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本08丨广移A丨 全网通
+vmess=jp09.javayun.xyz:21156,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本09丨广移A丨 全网通
+vmess=jp10.javayun.xyz:21157,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=VIP1丨日本10丨
+vmess=jp11.javayun.xyz:21158,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本11丨联通优化
+vmess=jp12.javayun.xyz:21159,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本12丨联通优化
+vmess=jp13.javayun.xyz:21160,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本13丨
+vmess=jp14.javayun.xyz:21161,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨日本14丨
+vmess=us08.javayun.xyz:21121,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨法国08丨
+vmess=us06.javayun.xyz:21119,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨澳大利亚06丨 全网通丨
+vmess=us01.javayun.xyz:21114,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨美国01丨 全网通丨NETFLIX
+vmess=us02.javayun.xyz:21115,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨美国02丨 全网通丨NETFLIX
+vmess=us03.javayun.xyz:21116,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨美国03丨 联通丨移动丨NETFLIX
+vmess=us04.javayun.xyz:21117,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨美国04丨 联通丨移动丨NETFLIX
+vmess=us05.javayun.xyz:21118,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨美国05丨 全网通丨
+vmess=us10.javayun.xyz:21123,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨英国10丨
+vmess=kr01.javayun.xyz:21148,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨韩国01丨全网通
+vmess=kr02.javayun.xyz:21149,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨韩国02丨全网通
+vmess=kr03.javayun.xyz:21150,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨韩国03丨全网通
+vmess=hk03.javayun.xyz:21136,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港03丨全网通丨
+vmess=hk04.javayun.xyz:21137,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港04丨 全网通丨
+vmess=hk05.javayun.xyz:21138,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港05丨 全网通丨
+vmess=hk06.javayun.xyz:21139,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港06丨 全网通丨
+vmess=hk07.javayun.xyz:21140,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港07丨全网通丨
+vmess=hk08.javayun.xyz:21141,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港08丨 全网通
+vmess=hk09.javayun.xyz:21142,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港09丨 全网通
+vmess=hk10.javayun.xyz:21143,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=Vip1丨香港10丨广移A丨 全网通
+vmess=tw01.javayun.xyz:21228,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip1丨台湾01丨】电信丨原生丨Netflix
+vmess=tw02.javayun.xyz:21229,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip1丨台湾02丨】丨全网通丨原生丨Netflix
+vmess=tw03.javayun.xyz:21230,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip1丨台湾03丨】全网通丨原生丨Netflix
+vmess=tw25.javayun.xyz:21189,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本25丨全网通丨原生
+vmess=tw04.javayun.xyz:21231,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip1丨台湾04】丨全网通丨原生丨Netflix丨
+vmess=jp05.javayun.xyz:21152,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip2丨日本05丨】 全网通丨原生丨固定IP丨NETFLIX
+vmess=us11.javayun.xyz:21174,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip2丨美国11丨Tiktok丨外贸丨专用】丨固定IP丨Netflix丨
+vmess=hk02.javayun.xyz:21135,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip2丨香港02丨倍率8】IPLC丨稳定丨低延丨不过墙
+vmess=hk12.javayun.xyz:21145,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip2丨香港12】丨HKBN原生丨全网通丨Netflix
+vmess=hk13.javayun.xyz:21146,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip2丨香港13】丨HKT原生丨全网通丨Netflix
+vmess=hk14.javayun.xyz:21147,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【Vip2丨香港14】丨HKBN丨原生丨Netflix
+vmess=kr04.javayun.xyz:21151,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【永久专属丨韩国04丨】BGP
+vmess=hk01.javayun.xyz:21134,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=【永久专属丨香港01丨倍率5】IPLC丨低延丨不过墙丨禁长时间占满宽带
+vmess=aga01.javayun.xyz:21275,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=独享01丨5000M丨电信丨联通丨软路由优选丨稳定
+vmess=tw16.javayun.xyz:21180,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本16丨全网通丨
+vmess=tw17.javayun.xyz:21181,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本17丨全网通丨
+vmess=tw18.javayun.xyz:21182,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本18丨全网通丨
+vmess=tw19.javayun.xyz:21183,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本19丨全网通丨
+vmess=tw20.javayun.xyz:21184,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本20丨全网通丨
+vmess=tw21.javayun.xyz:21185,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本21丨全网通丨
+vmess=tw22.javayun.xyz:21186,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本22丨全网通丨
+vmess=tw23.javayun.xyz:21187,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本23丨全网通丨
+vmess=tw24.javayun.xyz:21188,method=aes-128-gcm, password= fcf94e55-1504-3ed9-a351-42254445a79e, fast-open=false, udp-relay=false, tag=A-至尊独享丨日本24丨全网通丨

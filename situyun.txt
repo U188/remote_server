@@ -1,0 +1,17 @@
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-sp1, fast-open=false, udp-relay=false, tag=新加坡1 | 中转 | 解锁流媒体 | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-sp2, fast-open=false, udp-relay=false, tag=新加坡2 | 中转 | 解锁流媒体 | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-sp3, fast-open=false, udp-relay=false, tag=新加坡3 | 中转 | 解锁流媒体 | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-sp4, fast-open=false, udp-relay=false, tag=新加坡4 | 中转 | 解锁流媒体 | x1
+vmess=gzcm1.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-sp5, fast-open=false, udp-relay=false, tag=新加坡5 | 中转 | 解锁流媒体 | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-us3-433, fast-open=false, udp-relay=false, tag=美国03 | 广州移动 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-us4-434, fast-open=false, udp-relay=false, tag=美国04 | 广州移动 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-hgc1, fast-open=false, udp-relay=false, tag=香港01 | 广州移动 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-hgc2, fast-open=false, udp-relay=false, tag=香港02 | 广州移动 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-hgc3, fast-open=false, udp-relay=false, tag=香港03 | 广州移动 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-hgc4, fast-open=false, udp-relay=false, tag=香港04 | 广州移动 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-tm1, fast-open=false, udp-relay=false, tag=马来西亚01 | 中转 | 原生IP | x1
+vmess=gzcm2.v22222.xyz:43960,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/situ-tm2, fast-open=false, udp-relay=false, tag=马来西亚02 | 中转 | 原生IP | x1
+vmess=fwfvnsvvnvksdviepl.jjadg-adap.com:9001,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=香港1 | 专线 IEPL | x3
+vmess=fwfvnsvvnvksdviepl.jjadg-adap.com:9002,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=香港2 | 专线 IEPL | x3	
+vmess=fwfvnsvvnvksdviepl.jjadg-adap.com:9123,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=香港3 | 专线 IEPL | x3
+vmess=fwfvnsvvnvksdviepl.jjadg-adap.com:9456,method=aes-128-gcm, password= cdaea8f7-31e8-31e0-8837-2ce5e86a4ad5,obfs=ws, obfs-uri=/hls, fast-open=false, udp-relay=false, tag=香港4 | 专线 IEPL | x3	

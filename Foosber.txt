@@ -1,0 +1,12 @@
+vmess=aws.hk.foosber.space:20000,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/server2v7, fast-open=false, udp-relay=false, tag=Amazon 香港 华南入口 | 0.5x | 解锁流媒体 Lv1
+vmess=bbtec.osaka.foosber.space:8443,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/bbtectlsv27, fast-open=false, udp-relay=false, tag=BBtec 日本大阪 直连 | 0.8x | 解锁NF Lv1
+vmess=cera.la.foosber.space:59758,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/cerav8sray, fast-open=false, udp-relay=false, tag=Cera 洛杉矶 华中入口 | 0.8x | 解锁NF Lv1
+vmess=mlklink.la.foosber.space:20007,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/lasufoov01, fast-open=false, udp-relay=false, tag=Multacom 洛杉矶 华南入口 | 1x | 解锁流媒体 Lv1
+vmess=scloud.hk.foosber.space:20006,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/scloudv32, fast-open=false, udp-relay=false, tag=SCloud 香港 原生 华南入口 | 0.8x | 解锁流媒体 Lv1
+vmess=upcloud.sgp.foosber.space:20005,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/upsgpfoov7, fast-open=false, udp-relay=false, tag=UPCloud 新加坡 华南入口 | 1x | Disney+ Lv1
+vmess=bbtec.osaka.foosber.space:23553,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/bbtecv2sray, fast-open=false, udp-relay=false, tag=BBtec 日本大阪 华东入口 | 1x | 解锁NF Lv2
+vmess=cera.la.foosber.space:20003,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/cerafoov9, fast-open=false, udp-relay=false, tag=Cera 洛杉矶 华南入口 | 1x | 解锁NF Lv2
+vmess=recloud.la.foosber.space:20008,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/lasesufoov, fast-open=false, udp-relay=false, tag=Fastlink 西雅图 华南入口 | 2x | 解锁流媒体 Lv2
+vmess=hgc.hk.foosber.space:20001,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/foov27ray, fast-open=false, udp-relay=false, tag=HGC 香港原生 华南入口 | 1.5x | 解锁流媒体 Lv2
+vmess=hinet.tw.foosber.space:20004,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/hinetfoov2, fast-open=false, udp-relay=false, tag=Hinet 台湾原生 华南入口 | 1x | 解锁流媒体 Lv2
+vmess=invs.moscow.foosber.space:20002,method=aes-128-gcm, password= d6bdd388-7958-35a1-91e3-b965a2b486f5,obfs=ws, obfs-uri=/invsfoov7, fast-open=false, udp-relay=false, tag=INVS 莫斯科原生 华南入口 | 1x | 解锁流媒体 Lv2

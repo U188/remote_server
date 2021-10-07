@@ -1,4 +1,4 @@
-trojan=tjhk01.fengyecloud.me:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港01(Trojan HongKong01)
-trojan=tjhk02.fengyecloud.me:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港02(Trojan HongKong02)
-trojan=trojanhk03.fengyecloud.me:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港03(Trojan HongKong03)
-trojan=trhk04.fengyecloud.me:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港04(Trojan HongKong04)
+trojan=tj-sg01.ddjppt.xyz:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港01(Trojan HongKong01)
+trojan=tj-sg02.ddjppt.xyz:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港02(Trojan HongKong02)
+trojan=tj-jp01.ddjppt.xyz:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港03(Trojan HongKong03)
+trojan=tj-jp02.ddjppt.xyz:443, password=219f6d2b-49a1-333a-bdf2-d6673f4f9c6a, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Trojan-香港04(Trojan HongKong04)
